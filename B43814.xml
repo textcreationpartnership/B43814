@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to a printed paper entituled, A brief account of the evidence given on behalf of Edmond Warner, at a trial at the bar the 24th. of November 1693, &amp;c. Occasioned by some false reflections in the said paper upon the evidence given for the King at the said trial, wherein that they might gain greater credit, the author had the assurance to challenge any one to detect him of the least falshood therein.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43814</idno><idno type="EEBO-CITATION">767620260</idno>
+  <idno type="VID">212640</idno>
+  <idno type="EEBO-PROQUEST">2240871663</idno>
+  
+            <idno type="OCLC"> 767620260</idno>
+            <idno type="OCLC">ocn 767620260</idno>
+            <idno type="STC">Wing R1055</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212640)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3024:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to a printed paper entituled, A brief account of the evidence given on behalf of Edmond Warner, at a trial at the bar the 24th. of November 1693, &amp;c. Occasioned by some false reflections in the said paper upon the evidence given for the King at the said trial, wherein that they might gain greater credit, the author had the assurance to challenge any one to detect him of the least falshood therein.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Warner, Edmund --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="uniform_title">Brief account of the evidence given on behalf of Edmond Warner, at a trial at the bar the 24th. of November 1693 --  Early works to 1800.</term>
+               <term type="topical_term">Tariff on clay products --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212640:1"/>
+            <pb facs="tcp:212640:2"/>
+            <pb n="1" facs="tcp:212640:2"/>
+            <head>A REPLY to a Printed Paper Entituled, <hi>A brief Account of the Evidence given on behalf of</hi> Edmond Warner, <hi>at a Trial at the Bar the</hi> 24th. <hi>of</hi> November 1693, &amp;c. Occasioned by some false Reflections in the said Paper upon the Evidence given for the KING at the said Trial, wherein that they might gain the greater Credit, the Author had the as<g ref="char:EOLhyphen"/>surance to <hi>Challenge any One to detect him of the least Falshood therein.</hi>
+            </head>
+            <p n="1">1. TO the first Paragraph, being the Evidence of <hi>William Riddall,</hi> Steward to the said Mr. <hi>War<g ref="char:EOLhyphen"/>ner;</hi> That <hi>all bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time of Service, the Earth in question was sold to Potters, except some small quantities sold in the Neighbourhood for daubing of Houses,</hi> &amp;c. It's most certain he gave the same account at the Tryal; and it is as true, the said Earth, upon the least water coming to it, desolves (if dried) in the same manner as all other Fullers Earth doth, as has been proved be<g ref="char:EOLhyphen"/>fore and by many Members of the Honourable House of Commons: Therefore it cannot <hi>bo alledged as a good argument, that the said Clay is not of the Nature of Fullers Earth,</hi> and after its being once dri<g ref="char:EOLhyphen"/>ed by the Sun, will not prove <hi>The best Clay Wall in England;</hi> but being <hi>Of the Nature of Fullers Earth, upon the first wet Weather</hi> will <hi>fall to the ground;</hi> nor will the strength of this Gentleman's Testimony be able to support it.</p>
+            <p>That it was formerly seized (as he says) and after discharged, may be true, it not being con<g ref="char:EOLhyphen"/>sistent with every Officer in the Out Ports, to expend Three or Four Hundred Pounds to justifie him<g ref="char:EOLhyphen"/>self in the Execution of his Duty.</p>
+            <p n="2">2. To the Second Contents: What was deposed by divers Pot-makers in and about <hi>London,</hi> That <hi>Fullers Earth all the art of Man can never make a Pot of,</hi> &amp;c. Is not denied (intirely of its self, with<g ref="char:EOLhyphen"/>out mixture with other Earths) no better than the <hi>Pots, Cups,</hi> &amp;c. produced by the said Pot-makers at the first Tryal, and sworn <hi>To be made by them perfectly and intirely of Mr.</hi> Warners <hi>Earth,</hi> which when tried in Court, by being filled with Water, ran through in all parts thereof, before they could be handed to the Barons; and when broke in pieces, moldred as Chalk, and by the Court declared a Cheat. These Gentlemen upon a cross Examination, confessed they <hi>used in their common Working other Clays in making their Pets, mix'd with Mr.</hi> Warner<hi>'s Earth.</hi> However, to accomodate their Evi<g ref="char:EOLhyphen"/>dence to the Occasion, they were then intirely made of the Earth, in question, although imperfectly, yet better to serve the purpose; and if the fallacy had not been discovered, it might have proved more serviceable; this ill-luck made them decline any more proofs of their Skill at the second Trial, contenting themselves to give their Evidence without Demonstration.</p>
+            <p n="3">3. The Third, being the Evidence of <hi>Benjamin Furly</hi> and <hi>John Sonman</hi> his Servant of <hi>Rotterdam, That all the Earth consigned by Mr.</hi> Warner <hi>to the said</hi> Furly, <hi>was seld to Pottets, and of the great plenty of Fullers Earth in</hi> Holland, <hi>with the meanness of the Value.</hi> These by their Depositions farther De<g ref="char:EOLhyphen"/>pose, besides what is thought fit to be recited in the before-mentioned Paper, <hi>That there are also di<g ref="char:EOLhyphen"/>vers other Merchants in that City residing, that have there Imperted the said Mr.</hi> Warner<hi>'s Earth;</hi> but what use that may have been put to, they find convenient to conceal. It's certain, they were omit<g ref="char:EOLhyphen"/>ted and not examined by Vertue of the said Commission. It may be agreed, that any Fullers Earth to be procured in those Parts, by the meanness of its quality <hi>(not plenty)</hi> is not worth above the One fourth part of that Imported into those Countries from <hi>England.</hi>
+            </p>
+            <p n="4 5">4. and 5. To the Fourth and Fifth, These, except the Measurers, are as is said Pot and Platter-makers, who in their Depositions give account, <hi>Of their buying and using the said Earth of Mr.</hi> Warner; <hi>with the great value of it more than the Fullers Earth in those Countries.</hi> And although they are <hi>Dutch</hi> Peo<g ref="char:EOLhyphen"/>ple, and live in the several parts of that Country, yet they all speak good <hi>English</hi> on this occasion, and jump so wonderfully in their Opinion, that all their Depositions agree almost <hi>Verbatim,</hi> had they been all taught to say one thing they were very apt to repeat so nicely. It happens there is
+<pb n="2" facs="tcp:212640:3"/>not above Thirteen of them said to be examined, although if they had been made Thirty, they might have passed as well, their Depositions being taken in distinct pieces of Parchment not joyn<g ref="char:EOLhyphen"/>ed together, and but one of those appears signed as sworn to by the Commissioners; However it will be difficult to reconcile all these Depositions with the Evidence of <hi>Henry Dewilde,</hi> a <hi>Dutch</hi> Pot and Platter-maker living near the City of <hi>London,</hi> and one of the Witnesses of Mr. <hi>Warner</hi> mentioned in the aforesaid Paper, who upon his Examination, said, <hi>That there is no occasion for the Earth of Mr.</hi> Warner <hi>in</hi> Holland, <hi>there having been liberty for Importation of Potters Clay to those Parts for Two Years last past from</hi> French-Flanders, <hi>whereby the Earth of Mr.</hi> Warner <hi>is not worth the Freight of carrying to</hi> Rotterdam <hi>for the use of the said Pot and Platter-makers.</hi> Either this is not true, or more than he should have said, otherwise the Three Ships with the said Earth designed lately to be Exported by Mr. <hi>Warner,</hi> must not have been for the use of Pot-making, as is pre<g ref="char:EOLhyphen"/>tended.</p>
+            <p n="6">6. To the Sixth, That relates to the Evidence, which an Honourable Member of Parliament was pleased to give at the Trial, as it was at the request of Mr. <hi>Furly,</hi> the Agent or Factor of Mr. <hi>Warner</hi> in <hi>Holland;</hi> he gave himself the trouble of that enquiry, so undoubtedly it was according to the account he received from <hi>Myn Heer Antonio,</hi> as Interpreted, <hi>between him and a Dutch<g ref="char:EOLhyphen"/>man.</hi>
+            </p>
+            <p n="7">7. The Seventh, being the Testimony of a Divine, who was pleased to let the Court know, That <hi>he was in the Kings Service, and being in</hi> Holland, <hi>read a Letter from Mr.</hi> Warner, <hi>intreating his assistance, and inquiry about the Earth in Question; that pursuant thereto, be undertook the trouble of Travelling to most of the Cities of that Countrey that related to the Clothing Trade, and after that to the most consi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erable places for Pot-making,</hi> and took all this pains (as he declared upon Oath) <hi>with de<g ref="char:EOLhyphen"/>sign to have discovered the use of the Earth of Mr.</hi> Warner <hi>in the Fulling of Cloth, thereby to have served his King and Countrey.</hi>
+            </p>
+            <p>If this Gentleman had stumbled on any place where the Earth in dispute had been used as Ful<g ref="char:EOLhyphen"/>lers Earth, how unfortunate had Mr. <hi>Warner</hi> been in giving him that trouble; but since it proved otherwise, it was well used as an Argument for the veracity of his Evidence.</p>
+            <p n="8 9">8 and 9. The Eight and Ninth are divers Masters of Ships and several Buyers and Sellers of Ful<g ref="char:EOLhyphen"/>lers Earth, being <hi>Salters</hi> by Trade; these swore, That <hi>Mr.</hi> Warners <hi>Earth was not Fullers Earth, nor like the Earth bought by them, that they never dealt but in one sort, and that the said Earth of Mr.</hi> Warner <hi>would not melt, nor draw, or suck up Water, nor take the Grease out of Boards, as other Fullers Earth doth, &amp;c.</hi> It may be presumed these Persons are so knowing in their Trade, as to be sensible the Fullers Earth they sell, when new taken out of the Pit and wet, as that of Mr. <hi>Warners</hi> was (which lay four days sunk in the Lighter Two and a half Foot under Water) would be the same; had they dried it (as they ought) their Evidence must have been wanting. Its known to all men that are acquainted with the nature and use of Fullers Earth, what care and long preparation is used in the drying thereof, before it is fit to be used in the Fulling of Cloth; but notwithstanding these Persons have had the Courage upon Oath to Affirm all this, yet this very Earth of Mr. <hi>Warners,</hi> now in the Kings Ware-house, doth melt, and draw, or suck up Water, and take the Grease out in the same manner as all other Fullers Earth; all which may with more confidence be asserted, having been Experimented in all these qualities by divers Members of the House of Commons themselves.</p>
+            <p>It may also be observed. That one of these <hi>Salters</hi> before-mentioned, when this Earth was first suspected to be for other use then in making of Pots, was by the Officers of the Customs desired to give his Opinion thereof, and then answered them, it was good Fullers Earth, <hi>&amp;c.</hi> upon whose Judgment they put the first stop to it, what Arguments have since prevailed with him to change his Opinion do not appear.</p>
+            <p n="10">10. To the Tenth, being Clothiers, Baymen, Fullers and Millmen, these were very different in the giving their Evidence, those from <hi>Worcester</hi> did not pretend it would not scowre the Grease out of the Cloth, <hi>But that the Cloth, Fulled not after so well as with their own Earth, Yet one of those most eminent Clothiers,</hi> which gave his Testimony on behalf of Mr. <hi>Warner,</hi> at the Trial, and mentioned by him in his Paper, hath thought fit since to be a Petitioner, with the Corporation of that <hi>City,</hi> to the Honourable the House of Commons, to prevent the Exportation of the said Earth. For the <hi>Glocester</hi> Clothiers, they acknowledged <hi>never to have prepard the Earth of Mr.</hi> Warner <hi>by drying, but used it in the Condition they received it from the</hi> Custom-House, when no Fuller can have the confidence to affirm it can have its effect. For the <hi>E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sex</hi> and <hi>Suffolk</hi> evidence, they indeed were positive, Swearing, <hi>it was so far from having any thing
+<pb n="3" facs="tcp:212640:3"/>of the nature of Fullers Earth or Scowring faculties, that it f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed the Grease so in the Grounds of all the Cloths, that no Fullers Earth in</hi> England <hi>can fetch it out.</hi> It seems then the <hi>Worcester</hi> and <hi>Glocester</hi> Clothiers were better Workmen, altho not so good Evidencers. All these People upon cross Examination confessed, <hi>Mr.</hi> Warner <hi>contracted with them before hand to answer the damage any one should have by spoiling their Cloth in the Experiment, which were to be produced in his behalf, as Evidence at the Trial:</hi> Yet its remarkable they at the said Trial Varnished their Evidences with a Declaration, that <hi>they made all these Experiments, with a design to have made it Fullers Earth if they could.</hi> If that were true, 'twas very ungrateful to detect their Friend at his own expence.</p>
+            <p>For the reflection made by Mr. <hi>Warner</hi> at the latter end of this Paper, <hi>That his Adversaries</hi> (meaning the Officers of the Customs) <hi>made their Witnesses to affirm the said</hi> Warners <hi>Clay, was tried in all Experi<g ref="char:EOLhyphen"/>ments without any mixture, there was not above one or two, but upon Cross Examination at the Trial, owned they used Segg and Hogs dung or Soape and Gauls with it, which</hi> (as he says) <hi>would have secured any Cloths bet<g ref="char:EOLhyphen"/>ter without the said Clay then with it.</hi>
+            </p>
+            <p>This in the whole is so notoriously false, that it must have required much confidence to assert, and the Trial being then intirely taken; well attested and ready to be produced, may be easily detected; besides that this is untrue, is apparent by the Examinations of the same Persons, among divers others, upon the 19th. of this present <hi>January</hi> 1693, before a Committee of the Honourable the House of Commons, on this Occasion, to which the truth of all this is most humbly referred.</p>
+            <p>For his conclusion, <hi>That it may not be amiss to observe, that in a whole year,</hi> &amp;c. <hi>he had not been able to sell the least quantity of his Clay as Fullers Earth, the he has proferr'd it to all men for a very little more then one Third of what Fullers Earth is generally sold for.</hi> The Clothiers of <hi>Worcester,</hi> did before and since the Printing of that Paper, offer to give Mr. <hi>Warner</hi> 20 Shillings <hi>per</hi> Ton for his Earth, being the same Price they pay for the Fullers Earth of <hi>Surrey,</hi> for a certain quantity, and what they should have occasion for. But had Mr. <hi>Warner</hi> made any such Pargain during the <hi>present</hi> inquiry, he must have brought not only his discretion but Senses into question.</p>
+            <p>It has been most industriously spread abroad by Mr. <hi>Warner,</hi> as a reflection upon the Officers, <hi>That they would have been bargaining with him for a piece of money, and then he had been at liberty to Export the said Earth.</hi> This, considering the trust that is committed to them in the Execution of their Offices, more sensi<g ref="char:EOLhyphen"/>bly concerns them then any other consequence in this affair: And being obliged to justifie themselves, they affirm it utterly false and most malicious, and as frivolous as untrue, designed only to impose upon the unwary; it not being in the power of the said Officers, at any time to have made such agreement, all those Informations relating to the Earth in question, being entered in the Exchequer, and the Com<g ref="char:EOLhyphen"/>missioners of the Customs acquainted with it, before ever Mr. <hi>Warner</hi> appeared on that Occasion.</p>
+            <p>For the Penalties of Three Shilling <hi>per</hi> Pound, which the Law has given the Moiety of to the Officers, they have aboundant proof beyound exception, that in compassion to Mr. <hi>Warner,</hi> provided he Export no more of the said Earth, they from the first estered to consent to a Licence from the Court, or as the Barons should direct, and before the second Tryal, they by the Attorney General in Court, wholely declined all the Forfeitures; that if a Verdict should have been given for the King, it might appear they sought not their Interest, but Service of the Nation, in Endeavouring to prevent so great a mischief, as the Law hath declared the Exportation of Fullers Earth, to be, and to avoid themselves the heavy Pe<g ref="char:EOLhyphen"/>nalties those Laws have charged them with (as Felony, <hi>&amp;c.</hi>) if they should have been found <hi>Consenting</hi> to the Exportation of the said Mr. <hi>Warner</hi>'s Earth, when by the Judgement of almost 100 Clothiers and Fullers in the Counties and Shires of <hi>Glocester, Wilts, Semerset, Worcester, Berks, Surrey and Essex,</hi> who had themselves, or some of them, appointed by the rest of each County and Shire, taken the said Earth out of the Kings Ware-House, and having Experimented the same in the Scowring and Fulling of many Cloths, declared the said Earth to be good Fullers Earth, doing all the Offices thereof; and at the same time Mr. <hi>Warner</hi> always declining (as he did at the late hearing before the Committee) the proof of a Joynt Experiment.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
